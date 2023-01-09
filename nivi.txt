@@ -1,1 +1,3 @@
 Name : Niveditha More B S
+education : BE
+Designation : Automation engineer
